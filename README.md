@@ -1,0 +1,1 @@
+# AWS LAMDA UPLOAD TO S3 #

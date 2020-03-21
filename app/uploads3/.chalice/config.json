@@ -1,0 +1,10 @@
+{
+  "version": "2.0",
+  "app_name": "lambda_upload_s3",
+  "stages": {
+    "dev": {
+        "autogen_policy": true,
+        "api_gateway_stage": "v1"
+    }
+  }
+}
